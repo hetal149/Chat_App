@@ -1,0 +1,57 @@
+.msg{
+    display: "flex";
+    flex-direction: "column";
+    overflow-y: scroll;
+    margin-left:"60px"
+
+}
+.picker-container {
+    position: relative;
+    width: 1050px;
+    margin-right:90px;
+    background-color:#E8E8E8;
+  }
+  .emoji-icon {
+    cursor: pointer;
+    position: relative;
+    top: 8px;
+    right: 0px;
+    height:40px;
+    width:40px;
+    
+  }
+  .input-style {
+    padding: 7px 30px 7px 10px;
+    width: calc(100% - 40px);
+    border-radius: 3px;
+    border: 1px solid #999;
+    margin-bottom: 10px;
+  }
+
+.MuiBox-root css-1tnz5x9{
+    background-color:red
+}
+/* 
+.kaibi{
+    position: relative;
+    z-index: 2;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    max-width: 100%;
+    min-height: 62px; 
+} */
+
+/* .returns{
+    box-sizing: border-box;
+    flex: 1 1 auto;
+    width: inherit;
+    min-width: 0;
+    min-height: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    outline: none;
+    will-change: width;
+} */
